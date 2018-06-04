@@ -1,0 +1,13 @@
+{
+  "name": "homeworkOne",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "babel-node index.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
